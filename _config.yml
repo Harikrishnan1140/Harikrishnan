@@ -2,8 +2,8 @@ title: Harikrishnan's Tech Blog
 description: Exploring AI/ML, comparing tools, sharing learning notes
 theme: minima
 author: Harikrishnan
-url: "https://Harikrishnan1140.github.io"
-baseurl: ""
+url: "https://harikrishnan1140.github.io"
+baseurl: "/Harikrishnan"
 show_excerpts: true
 
 minima:
