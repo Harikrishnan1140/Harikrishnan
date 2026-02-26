@@ -3,6 +3,11 @@ description: Exploring AI/ML, comparing tools, sharing learning notes
 theme: minima
 author: Harikrishnan
 url: "https://Harikrishnan1140.github.io"
+baseurl: ""
 show_excerpts: true
+
 minima:
   skin: dark
+
+plugins:
+  - jekyll-feed
