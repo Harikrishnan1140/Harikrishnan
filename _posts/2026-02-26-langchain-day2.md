@@ -1,16 +1,12 @@
 ---
 layout: post
-title: "Building Your First AI Chatbot with LangChain — What I Learned"
-date: 2026-02-26
+title: "Building Your First AI Chatbot with LangChain - What I Learned"
+date: 2026-02-26 00:00:00 +0000
 ---
-
-# Building Your First AI Chatbot with LangChain — What I Learned
 
 Hello readers! This is my second day of learning LangChain, and today's topic was LLM fundamentals through LangChain.
 
 For context, I'm learning from a book called *Learning LangChain* by Mayo Oshin and Nuno Campos.
-
----
 
 ## What is an LLM?
 
@@ -21,8 +17,6 @@ LLM stands for **Large Language Model**, where:
 
 I use AI to generate responses in my day-to-day life, but while reading through the book, I came to appreciate the importance of prompting and the different techniques used for it. Let's walk through some examples.
 
----
-
 ## Prompting Techniques
 
 ### Zero-Shot Prompting
@@ -30,7 +24,6 @@ I use AI to generate responses in my day-to-day life, but while reading through 
 In zero-shot prompting, we ask the model to produce a desirable output without giving it any examples. I used OpenAI as my platform for this experiment.
 
 **Prompt:**
-
 ```
 Classify the sentiment of the following text as Positive, Negative, or Neutral.
 Text: "The new software update completely broke my workflow and I lost hours of work."
@@ -40,5 +33,4 @@ Sentiment:
 **Response:** Negative
 
 ---
-
 *More techniques to come as I continue learning!*
