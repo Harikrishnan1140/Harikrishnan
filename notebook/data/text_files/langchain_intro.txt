@@ -1,0 +1,1 @@
+LangChain is a popular open-source framework designed to make it easier to build applications with large language models (LLMs). Its modular design allows developers to chain together various components – such as prompt templates, memory, and external tools – enabling powerful, flexible AI-driven workflows.
