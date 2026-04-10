@@ -5,9 +5,8 @@ author: Harikrishnan
 url: "https://harikrishnan1140.github.io"
 baseurl: "/Harikrishnan"
 show_excerpts: true
-
+future: true
 minima:
   skin: dark
-
 plugins:
   - jekyll-feed
