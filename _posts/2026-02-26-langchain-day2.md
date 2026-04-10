@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Your First AI Chatbot with LangChain - What I Learned"
-date: 2026-02-26 00:00:00 +0000
+date: 2026-02-26 
 ---
 
 Hello readers! This is my second day of learning LangChain, and today's topic was LLM fundamentals. I'm learning from a book called *Learning LangChain* by Mayo Oshin and Nuno Campos.
